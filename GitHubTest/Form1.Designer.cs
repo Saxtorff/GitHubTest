@@ -35,9 +35,10 @@ namespace GitHubTest
             // lb_sfl
             // 
             this.lb_sfl.AutoSize = true;
-            this.lb_sfl.Location = new System.Drawing.Point(341, 216);
+            this.lb_sfl.Font = new System.Drawing.Font("Ravie", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lb_sfl.Location = new System.Drawing.Point(260, 180);
             this.lb_sfl.Name = "lb_sfl";
-            this.lb_sfl.Size = new System.Drawing.Size(92, 17);
+            this.lb_sfl.Size = new System.Drawing.Size(290, 38);
             this.lb_sfl.TabIndex = 0;
             this.lb_sfl.Text = "Stor fed label";
             // 
